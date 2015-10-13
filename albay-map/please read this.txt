@@ -1,0 +1,9 @@
+Project Tools:(Kindly delete this file after reading)
+To God Be The Glory
+
+I use the following to create this project:
+Dreamweaver
+Adobe PhotoShop
+
+I use framelayout which is the basic of HTML to link different html layout into a single file 
+
